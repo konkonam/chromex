@@ -1,0 +1,20 @@
+{
+  "name": "chromex",
+  "version": "1.0.0",
+  "description": "Lorem ipsum",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^8.4.1",
+    "types": "^0.1.1",
+    "typescript": "^3.6.3"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.179",
+    "@types/node": "^12.7.8"
+  }
+}
